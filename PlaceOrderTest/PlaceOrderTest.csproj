@@ -33,6 +33,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="RealTick.Api">
+      <HintPath>..\..\..\..\..\..\..\RealTick\RealTick.Api.dll</HintPath>
+    </Reference>
+    <Reference Include="RealTick.Api.Domain">
+      <HintPath>..\..\..\..\..\..\..\RealTick\RealTick.Api.Domain.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
